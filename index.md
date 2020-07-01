@@ -3,8 +3,8 @@ layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
-venue: "UMass Boston Zoom"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "Zoom! https://umassboston.zoom.us/j/93031326716 day 1 and https://umassboston.zoom.us/j/93174502878 day 2"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+venue: "UMass Boston Zoom - https://umassboston.zoom.us/j/93031326716 day 1 and https://umassboston.zoom.us/j/93174502878 day 2"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
+address: "online"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "US"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
 latitude: "42.314273"        # decimal latitude of workshop venue (use https://www.latlong.net/)
@@ -84,6 +84,9 @@ displayed if the 'eventbrite' field in the header is not set.
 
 
 <h2 id="general">General Information</h2>
+<b>Zoom Links:</b> <br>
+&nbsp; https://umassboston.zoom.us/j/93031326716 day 1 <br>
+&nbsp; https://umassboston.zoom.us/j/93174502878 day 2
 
 {% comment %}
 INTRODUCTION
@@ -184,14 +187,9 @@ special instructions.
   <strong>Accessibility:</strong>
 {% if online == "false" %}
   We are committed to making this workshop
-  accessible to everybody. The workshop organizers have checked that:
-</p>
-<ul>
-  <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible restrooms are available.</li>
-</ul>
-<p>
-  Virtual will be provided in advance of the workshop and
+  accessible to everybody. The workshop organizers will record the session so
+  that any participant can go back and review the workshop. Virtual materials
+  will be provided in advance of the workshop and
   if you need us to print and mail them, let us know.  
   If we can help making learning easier for
   you (e.g. sign-language interpreters, lactation facilities) please
