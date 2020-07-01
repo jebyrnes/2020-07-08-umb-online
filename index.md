@@ -86,7 +86,9 @@ displayed if the 'eventbrite' field in the header is not set.
 <h2 id="general">General Information</h2>
 <b>Zoom Links:</b> <br>
 &nbsp; https://umassboston.zoom.us/j/93031326716 day 1 <br>
-&nbsp; https://umassboston.zoom.us/j/93174502878 day 2
+&nbsp; https://umassboston.zoom.us/j/93174502878 day 2<br>
+
+<b> Setup instructions:</b> <a href="https://datacarpentry.org/ecology-workshop/setup-r-workshop.html">here</a>.
 
 {% comment %}
 INTRODUCTION
